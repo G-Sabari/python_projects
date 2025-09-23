@@ -17,4 +17,4 @@ The game provides hints if the guess is too high or too low.
 2. Open terminal in the project folder
 3. Run:
 ```bash
-python number_guessing_game.py
+python number_guessing.py
