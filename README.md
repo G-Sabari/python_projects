@@ -26,4 +26,16 @@ A collection of beginner-friendly Python projects demonstrating CLI applications
 
 ---
 
+### **Day 3: Rock, Paper, Scissors**
+- **Description:** A classic Rock–Paper–Scissors game where the user plays against the computer.
+- **Features:**
+  - User vs Computer gameplay
+  - Random computer choices
+  - Detects win, lose, or draw
+  - Replay option until user exits
+  - Fun emojis for results (🏆 🤖 🤝)
+- **Technology:** Python 3.x
+
+---
+
 ## 📂 Project Structure
